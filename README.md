@@ -1,5 +1,10 @@
 # UFOs
 
+### Tools used
+**JavaScript**  
+**CSS**  
+**HTML**
+
 ## Overview
 In this project, we use JavaScript to create a table on the page and create a filter. Then, we use HTML to create a page and the display the table along with a paragraph describing the table. We also use a little CSS in order to make the page display the words better against the background.
 
